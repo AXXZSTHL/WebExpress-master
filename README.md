@@ -20,6 +20,5 @@ WebExpress 基于ChromeMini开发的是一款本地浏览器，采用Wpf+CefShap
 This browser is using CefSharp. You can find it on: https://github.com/cefsharp/CefSharp
 
 
-# 有问题一起讨论,扫码加微信.
+# 有问题一起讨论,微信号: itsMCheng
 
-![image](https://github.com/AXXZSTHL/GitHubImg/blob/master/微信图片_20190923155812.jpg?raw=true)
